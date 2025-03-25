@@ -1,2 +1,2 @@
-print("hello world")
+print("hello banaan")
 # comment toevoegen
